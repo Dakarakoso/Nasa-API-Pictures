@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="./images/apple-touch-icon.png" alt="Logo" width="80" height="80">
+    <img href="https://s2.googleusercontent.com/s2/favicons?domain=www.nasa.gov" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Nasa-API-Pictures</h3>
@@ -42,6 +42,7 @@ https://dakarakoso.github.io/Nasa-API-Pictures/
 - Html
 - CSS
 - JavaScript
+- [Nasa API] (https://api.nasa.gov/)
 
 ## Usage
 
